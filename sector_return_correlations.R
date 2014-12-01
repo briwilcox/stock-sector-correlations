@@ -2,7 +2,7 @@
 # Copyright 2014 Brian Wilcox
 # brianmwilcox.com
 #
-#
+# Licensed under the MIT license
 #
 library(quantmod)
 library(corrplot)
